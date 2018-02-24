@@ -34,4 +34,4 @@ INSERT INTO products (item_id, product_name, department_name, price, stock_quant
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (767, 'Twin Bed Frame - Black', 'Home Goods', 165.99, 40);
 
-INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (101, 'Amazon Echo', 'Electronics', 69.99, 29);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (131, 'Amazon Echo', 'Electronics', 69.99, 29);
